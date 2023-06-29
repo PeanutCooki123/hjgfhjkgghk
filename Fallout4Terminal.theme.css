@@ -23,9 +23,9 @@
   --rgb-background: 148, 21, 113; /* The main background color */
   --rgb-text: 99, 236, 218; /* The color (almost) all text should use */
   --rgb-close-button: 229, 69, 41; /* The main "close this" or "deny" color */
-  --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
-  --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
-  --rgb-dnd-color: 255, 0, 0; /* The color used in the "do not disturb" user status symbol */
+  --rgb-online-color: 6, 245, 155; /* The color used in the "online" user status symbol */
+  --rgb-afk-color: 251, 151, 40; /* The color used in the "idle" user status symbol */
+  --rgb-dnd-color: 71, 23, 88; /* The color used in the "do not disturb" user status symbol */
   --rgb-streaming-color: 188, 19, 254; /* The color used in the "streaming X" user status symbol */
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
