@@ -20,7 +20,7 @@
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 73, 186, 171; /* The main highlight color */
-  --background: url('https://imgur.com/gallery/kV2ehZY');
+  --background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
   --rgb-text: 99, 236, 218; /* The color (almost) all text should use */
   --rgb-close-button: 229, 69, 41; /* The main "close this" or "deny" color */
   --rgb-online-color: 6, 245, 155; /* The color used in the "online" user status symbol */
