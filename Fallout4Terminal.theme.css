@@ -20,11 +20,7 @@
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 73, 186, 171; /* The main highlight color */
- --background:					url(https://github.com/PeanutCooki123/hjgfhjkgghk/blob/main/e702719b0ac28f3e4026a9cbc6de4f1f.gif);	/* general background image				*/
-	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
-	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
-	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
-	
+  --rgb-background: 255, 19, 94; /* The main background color */
   --rgb-text: 99, 236, 218; /* The color (almost) all text should use */
   --rgb-close-button: 229, 69, 41; /* The main "close this" or "deny" color */
   --rgb-online-color: 6, 245, 155; /* The color used in the "online" user status symbol */
